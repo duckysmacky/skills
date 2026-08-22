@@ -5,5 +5,21 @@
     "name": "Nikita Doronin (duckysmacky)",
     "url": "https://github.com/duckysmacky"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "context-manager",
+      "source": {
+        "source": "github",
+        "repo": "duckysmacky/context-manager-skill"
+      },
+      "description": "Preserve engineering context across long-running tasks, sessions, and coding agents.",
+      "category": "development",
+      "tags": [
+		"context",
+		"issue",
+        "handoff",
+        "multi-agent"
+      ]
+    }
+  ]
 }
