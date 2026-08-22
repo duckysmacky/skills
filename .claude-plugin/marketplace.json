@@ -20,6 +20,22 @@
         "handoff",
         "multi-agent"
       ]
+    },
+    {
+      "name": "guitar-setup",
+      "source": {
+        "source": "github",
+        "repo": "duckysmacky/guitar-setup-skill"
+      },
+      "description": "Configure guitar and amplifier settings to play a certain song",
+      "category": "utility",
+      "tags": [
+        "guitar",
+        "amplifier",
+        "tone",
+        "song",
+        "music"
+	  ]
     }
   ]
 }
