@@ -1,0 +1,9 @@
+{
+  "name": "duckysmacky",
+  "description": "Agent skills and plugins created and maintained by duckysmacky",
+  "owner": {
+    "name": "Nikita Doronin (duckysmacky)",
+    "url": "https://github.com/duckysmacky"
+  },
+  "plugins": []
+}
