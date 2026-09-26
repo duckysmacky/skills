@@ -8,6 +8,7 @@ This repository contains the marketplace manifest for my custom Claude Code skil
 | --- | --- | --- |
 | `context-manager` | Preserve engineering context across long-running tasks, sessions, and coding agents. | [duckysmacky/context-manager-skill](https://github.com/duckysmacky/context-manager-skill) |
 | `guitar-setup` | Configure guitar and amplifier settings to play a certain song | [duckysmacky/guitar-setup-skill](https://github.com/duckysmacky/guitar-setup-skill) |
+| `loom` | Drive your self-hosted Loom graph (projects, studies, ideas) from Claude | [duckysmacky/loom](https://github.com/duckysmacky/loom) |
 
 ## Installation
 

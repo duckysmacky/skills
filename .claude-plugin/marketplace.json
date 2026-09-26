@@ -35,7 +35,18 @@
         "tone",
         "song",
         "music"
-	  ]
-    }
+      ]
+    },
+	{
+	  "name": "loom",
+	  "source": {
+		"source": "git-subdir",
+		"url": "https://github.com/duckysmacky/loom.git",
+		"path": "claude-plugin"
+	  },
+	  "description": "Drive your self-hosted Loom graph (projects, studies, ideas) from Claude",
+	  "category": "productivity",
+	  "tags": ["loom", "mcp", "projects", "learning"]
+	}
   ]
 }
